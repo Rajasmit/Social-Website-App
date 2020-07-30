@@ -10,6 +10,8 @@
 - pip install --upgrade certifi
 - pip install easy-thumbnails==2.7
 
+## To use Facebook and Google login
+- Please add OAuth ids and keys
 
 ## After Installion
 - python manage.py migrate
